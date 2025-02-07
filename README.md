@@ -5,7 +5,7 @@ A tool to analyze reviews from the Traveloka application. Create 3 types of sent
 </p>
 
 - Using datasets from Web Scrapping results using a python library called google_play_scraper.
-- For the complete code please check [this file](https://github.com/MaruliHTGL/Analysis-Sentiment-of-Deepseek-Posts/blob/c176f5d49c1a46840d43c8bfdb5c8ba436d1628c/Deepseek%20English%20Sentiment.ipynb)
+- For the complete code please check [this file](https://github.com/MaruliHTGL/NLP-Sentiment-Analysis-of-Traveloka-App-Review/blob/1455067972420f00a967789fafb1b4f70500f7d2/Traveloka%20Reviews.ipynb)
 - To test the model please visit [this link](https://travelokareview.streamlit.app/)    <br> <br>
 - For positive sentiment, use this post:
   <br>
